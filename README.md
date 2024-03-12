@@ -1,4 +1,5 @@
 # Repositorio_uno
+
 Repositori_uno
 
 ```python
@@ -7,5 +8,7 @@ print{"Hello world"}
 ```
 
 Essto es una lista
-*Es una elemento 
+*Es una elemento
 *otro elemento
+
+Cambios para mirar el efecto
